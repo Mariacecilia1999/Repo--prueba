@@ -23,9 +23,9 @@ body{
    align-items: center;
 
    /*Gradiente*/
- /*background-image: linear-gradient(to right, red , yellow);*/
+   background-image: linear-gradient(to right, red , yellow);
    /*Transformación*/
-  /* transform: skewY(25deg) */
+    transform: skewY(25deg)
 }
 
 
